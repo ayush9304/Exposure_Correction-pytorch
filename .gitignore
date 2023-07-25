@@ -1,0 +1,4 @@
+data/training.zip
+data/validation.zip
+data/training/*
+data/validation/*
