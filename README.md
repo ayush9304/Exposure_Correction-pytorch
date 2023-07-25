@@ -33,7 +33,7 @@ conda activate mspec_env
 pip install -r requirements.txt
 ```
 ## prepare data
-1. First download [Training](https://ln2.sync.com/dl/141f68cf0/mrt3jtm9-ywbdrvtw-avba76t4-w6fw8fzj)|[ Validation](https://ln2.sync.com/dl/49a6738c0/3m3imxpe-w6eqiczn-vripaqcf-jpswtcfr)|[Testing](https://ln2.sync.com/dl/098a6c5e0/cienw23w-usca2rgh-u5fxiex-q7vydzkp)from the [official github repository](https://github.com/mahmoudnafifi/Exposure_Correction)
+1. First download [Training](https://ln2.sync.com/dl/141f68cf0/mrt3jtm9-ywbdrvtw-avba76t4-w6fw8fzj)|[ Validation](https://edef2.pcloud.com/cBZAYvx3hZxjuI8TZZZxtaVykZ2ZZn0JZkZuHahJZK0ZaZD7ZBkZTVZcXZIXZIkZE7ZuXZmkZGXZV5ZEVZLHmBZAAyRGB0KJBRvL0y7FmCG7X7bGz37/validation.zip)|[Testing](https://ln2.sync.com/dl/098a6c5e0/cienw23w-usca2rgh-u5fxiex-q7vydzkp)from the [official github repository](https://github.com/mahmoudnafifi/Exposure_Correction)
 2. Place the dataset in the root directory of the project according to the folder result
 3. Run the following code to preprocess the data, and then a new Patchs folder will be generated in the ./MultiExposure_dataset/training directory
 ```
